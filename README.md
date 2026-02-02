@@ -1,4 +1,4 @@
-# My Personal Blog - Jekyll Edition
+# DQ's Personal Blog - Jekyll Edition
 
 A clean, simple personal blog built with Jekyll and hosted on GitHub Pages.
 
