@@ -1,0 +1,14 @@
+title: My Personal Blog
+tagline: Thoughts, ideas, and musings
+description: A personal blog about technology, learning, and life
+url: "https://davidwquinlan.github.io"
+
+# Build settings
+markdown: kramdown
+permalink: /posts/:title/
+
+# Exclude files from processing
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
