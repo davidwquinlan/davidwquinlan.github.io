@@ -6,7 +6,7 @@ date: 2025-01-15
 
 Hello and welcome to my personal blog! I'm excited to finally launch this space where I can share my thoughts, experiences, and things I'm learning.
 
-Starting a blog has been on my mind for a while now. There's something powerful about putting your thoughts into writing and sharing them with the world. It's not just about broadcasting ideas—it's about organizing my own thinking, documenting my journey, and hopefully connecting with others who share similar interests.
+Starting a blog has been on my mind for a long time. There's something powerful about putting your thoughts into writing and sharing them with the world. It's not just about broadcasting ideas—it's about organizing my own thinking, documenting my journey, and hopefully connecting with others who share similar interests.
 
 ## Why I Started This Blog
 
