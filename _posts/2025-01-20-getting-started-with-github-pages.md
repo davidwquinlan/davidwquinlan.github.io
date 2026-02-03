@@ -4,7 +4,7 @@ title: "Getting Started with GitHub Pages"
 date: 2025-01-20
 ---
 
-One of the best decisions I made when starting this blog was to host it on GitHub Pages. It's completely free, reliable, and surprisingly easy to set up. In this post, I'll share my experience and some tips for anyone looking to do the same.
+One of the best decisions I made when starting this DQ blog was to host it on GitHub Pages. It's completely free, reliable, and surprisingly easy to set up. In this post, I'll share my experience and some tips for anyone looking to do the same.
 
 ## Why GitHub Pages?
 
