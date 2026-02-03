@@ -1,4 +1,4 @@
-# DQ's Personal Blog - Powered by Jekyll
+# DwQ's Personal Blog - Powered by Jekyll
 
 A clean, simple personal blog built with Jekyll and hosted on GitHub Pages.
 
